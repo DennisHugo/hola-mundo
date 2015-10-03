@@ -1,0 +1,12 @@
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\bin\Debug\dado_con_random.exe.config
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\bin\Debug\dado_con_random.exe
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\bin\Debug\dado_con_random.pdb
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.csprojResolveAssemblyReference.cache
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.Form1.resources
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.Properties.Resources.resources
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.csproj.GenerateResource.Cache
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.exe
+C:\Users\army_\Desktop\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.pdb
+D:\PROGRAMAS PROGRAMADOS DJDENS\programas c#\c#\dado_con_random\dado_con_random\bin\Debug\dado_con_random.exe.config
+D:\PROGRAMAS PROGRAMADOS DJDENS\programas c#\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.exe
+D:\PROGRAMAS PROGRAMADOS DJDENS\programas c#\c#\dado_con_random\dado_con_random\obj\Debug\dado_con_random.pdb
